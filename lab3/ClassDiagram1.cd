@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab3.Clothes.Dress" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIEAMAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clothes\Dress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Clothes.Jacket" Collapsed="true">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEEIAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clothes\Jacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Clothes.Pants" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIEAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clothes\Pants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Clothes.Shirt" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clothes\Shirt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Clothes.Shorts" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clothes\Shorts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Clothes.Tshirt" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clothes\Tshirt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Clothes.Wear" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAEAACAAAAAAABAAAA=</HashCode>
+      <FileName>Clothes\Wear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Core.Creator" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Creator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Core.DressCreator" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\DressCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Core.JacketCreator" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\JacketCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Core.PantsCreator" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\PantsCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Core.ShirtCreator" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ShirtCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Core.ShortsCreator" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ShortsCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Core.TshirtCreator" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\TshirtCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Form1" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCEAAAVAASAgAVKQABiAIiBCIAoAAAAAEAAAAQEAAIA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Program" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Properties.Resources" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Properties.Settings" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="lab3.Clothes.TypeOfWear" Collapsed="true">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clothes\Wear.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
