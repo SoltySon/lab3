@@ -59,6 +59,7 @@
     <Compile Include="Core\PantsCreator.cs" />
     <Compile Include="Core\ShirtCreator.cs" />
     <Compile Include="Core\ShortsCreator.cs" />
+    <Compile Include="Core\Switch.cs" />
     <Compile Include="Core\TshirtCreator.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
